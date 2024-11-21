@@ -100,4 +100,5 @@ public class _08_GoRestPostsTest {
                 .statusCode(404)
         ;
     }
+
 }

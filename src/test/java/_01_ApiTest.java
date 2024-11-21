@@ -182,6 +182,7 @@ public class _01_ApiTest {
                     .then()
                     .body("meta.pagination.page",equalTo(i))
             ;
+
         }
     }
 }

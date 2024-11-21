@@ -48,5 +48,6 @@ public class _02_ApiTestSpec {
 
                 .then()
                 .spec(responseSpec);
+
     }
 }

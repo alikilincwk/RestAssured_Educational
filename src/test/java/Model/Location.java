@@ -52,4 +52,5 @@ public class Location {
                 ", places=" + places +
                 '}';
     }
+
 }

@@ -146,5 +146,4 @@ public class _10_CitizenshipTest {
         ;
     }
 
-
 }

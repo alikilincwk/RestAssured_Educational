@@ -122,4 +122,5 @@ public class _07_GoRestUsersTest {
                 .statusCode(404)
         ;
     }
+
 }
